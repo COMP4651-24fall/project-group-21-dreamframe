@@ -46,8 +46,8 @@ An interactive web application that enables users to create stunning AI-generate
 
 ## Documentation
 
-For more detailed instructions, visit our [documentation](./docs/documentation.md).
-https://hkustconnect-my.sharepoint.com/:w:/g/personal/skhsuaa_connect_ust_hk/EZKHDbDDzmBDvGotV7yHKjIBIE429TdiblupYWKur6PejQ?e=lzebfU
+For more detailed instructions, visit our [documentation](./COMP4651_project_report.pdf).
+
 ---
 
 ## Preview
