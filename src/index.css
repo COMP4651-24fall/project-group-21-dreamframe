@@ -1,0 +1,27 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add smooth transitions for theme changes */
+html {
+  scroll-behavior: smooth;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  transition: background-color 0.3s ease, color 0.3s ease;
+  margin: 0px;
+  padding: 0px;
+}
+
+:root {
+  --daisy-primary: #3b82f6;
+  --daisy-secondary: #9333ea;
+  --daisy-accent: #10b981;
+  --daisy-dark: #1f2937;
+  --daisy-base-200: #e5e7eb;
+  --daisy-base-300: #d1d5db;
+  --daisy-text-color: #f9fafb;
+}
